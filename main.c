@@ -566,16 +566,16 @@ int main()
 #if 0
     puts("[Tencent LianLianKan Assistant 1.0]\n\n"
          "> Writen By Poilynx\n"
-         "> poilynx@neusoft.edu.cn\n"
-         "> http://snut.ml\n"
+         "> poilynx@gmx.com\n"
+         "> http://poilynx.nsscn.org\n"
          "> Neusoft Network Security Studio\n"
          "> All Rights Reserved.\n"
          "> 2015-4-25\n\n");
 #else
     puts("[腾讯连连看辅助 版本1.0]\n\n"
          "> 作者：李希林\n"
-         "> 邮箱：poilynx@neusoft.edu.cn\n"
-         "> 主页：http://www.poilynx.nsscn.org\n"
+         "> 邮箱：poilynx@gmx.com\n"
+         "> 主页：http://poilynx.nsscn.org\n"
          "> 东软网络安全工作室\n"
          "> 保留所有版权\n"
          "> 2015-4-25\n\n");
@@ -593,7 +593,7 @@ int main()
             quick_enter();//尝试快速加入
             Sleep(1000);
         }
-        printf("Game Window Is Found, HWND: %p\n", hWnd);
+        printf("Game Window Found, HWND: %p\n", hWnd);
         //Sleep(1000);
 
         hDC = GetDC(hWnd);
