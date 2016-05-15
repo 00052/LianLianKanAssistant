@@ -2,8 +2,8 @@
 //Writen By Poilynx In Neusoft NSS
 //Thanks For Your Help: JiangJinXiao, WangHaoRan(NSS)
 //Last Edition: 15-4-26
-//E-Mail:       poilynx@neusoft.edu.cn
-//Blog:         http://snut.ml
+//E-Mail:       poilynx@gmx.com
+//Blog:         http://poilynx.nsscn.org
 /****************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
