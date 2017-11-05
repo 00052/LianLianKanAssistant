@@ -1,10 +1,10 @@
-﻿/****************************************************************/
-//Writen By Poilynx In Neusoft NSS
-//Thanks For Your Help: JiangJinXiao, WangHaoRan(NSS)
-//Last Edition: 15-4-26
-//E-Mail:       poilynx@gmx.com
-//Blog:         http://poilynx.nsscn.org
-/****************************************************************/
+/****************************************************************
+ *腾讯游戏大厅连连看宇宙无敌全自动秒图
+ *感谢: JiangJinXiao, WangHaoRan
+ *最后编辑: 15-4-26
+ *E-Mail: i@tinkrr.cc
+ *Blog: blog.tinkrr.cc      
+ ****************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
