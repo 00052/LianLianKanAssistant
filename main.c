@@ -563,23 +563,9 @@ void resort(HWND hWnd)
 int main()
 {
     HWND hWnd;
-#if 0
     puts("[Tencent LianLianKan Assistant 1.0]\n\n"
-         "> Writen By Poilynx\n"
-         "> poilynx@gmx.com\n"
-         "> http://poilynx.nsscn.org\n"
-         "> Neusoft Network Security Studio\n"
-         "> All Rights Reserved.\n"
+         "> by tinkrr (i@tinkrr.cc)\n"
          "> 2015-4-25\n\n");
-#else
-    puts("[腾讯连连看辅助 版本1.0]\n\n"
-         "> 作者：李希林\n"
-         "> 邮箱：poilynx@gmx.com\n"
-         "> 主页：http://poilynx.nsscn.org\n"
-         "> 东软网络安全工作室\n"
-         "> 保留所有版权\n"
-         "> 2015-4-25\n\n");
-#endif
     while (1)
     {
         HDC hDC;
