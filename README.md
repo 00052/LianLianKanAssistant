@@ -1,4 +1,4 @@
-# 腾讯游戏大厅－连连看挂机助
+# 腾讯游戏大厅 － 连连看挂机助手
 
 ![Screenshot](./screenshot.png)
 
